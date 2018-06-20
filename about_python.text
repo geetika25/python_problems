@@ -1,0 +1,110 @@
+*problem relates to list in python*
+
+
+question1 : what is python ?
+
+
+answer    : python is a programming langauge.it a general purpose and high level interpreted langauge with dynamic semantic.programmers love python because of the easy and simple semantic of python,
+		   aslo beacause of python easy simple to learn syntax make it attractive to use as a scripting and glue langauge or in rapid application development.	debuging python program is easy.
+
+		   
+question2 : name some of the features of python.
+
+
+answers   : python run anywhere in windows,Mac,unix,linix.
+            pyhton is a obeject oriented programming langauge.
+			mixing of incompatible type for example in python attempting addition between string and number.
+			python is a dynamic typed language.
+			simple synatx.
+			python use classes and modules.
+			python is a interpreted langauge.
+
+			
+question3 : what is the purpose of pythonpath variable.
+
+
+answer    :	this variable tells the python interpreter where to locate the module files imported into a program.
+			it should include the python source library directory and the directories contain in python source code
+
+
+question4 : Is python is a case sensitive langauge.
+
+
+answer    : yes, python is a case sensitive langauge,case sensitive means that the predefined words are written in the same manner,means case matters in python.
+		  : just like c,c++,etc are the case sensitive langauges,that means the predefined keywords written in the same manner.
+		  
+		  
+question5 : what are the supported data type in python.
+
+
+answer    : python supports numeric type,sequences,sets and mapping.numeric types like int,float,long,complex.sequences type like str string typed,byte,byte array,list,tuple.
+			sets is a unordered collection of unique elements and object,frozen sets,mapping(dic) dictionary that means the element of list is associated with a defination.
+		
+		
+question6: what are tuple in python.
+answer    : tuples are the inmutable objects in python,halike a list tuple is a sequences of objects.the difference between list and tuple is tuple cannot be changed once created but list can be changed.
+			tuples objects are in within simple brackets and sperated with commas example tuple=(1,2,3,4,5)
+			
+
+question7: what is the difference between the tuples and lists in python.
+
+answer    :  1. tuple are the sequences of inmutable unordered object .
+			    list are the sequences of mutable unordered obejects.
+				
+			 2. tuples cannot be changed.
+			    list can be changed.
+				
+			 3. tuple objects are represented in simple brackets.
+			    list objects are represented in square brackets.
+				
+			 4. example. tuple=(1,23,4,56,4)
+				example. list=[1,23,4,56,4]
+
+question8: what are the python dictionaries.
+
+answer   : every key in a dictionary sperated by its value with colomn(:) and each item is sperated with commas(,) and the whole thing is in within curly brackets.
+		   key must be unique in dictionary and value may or may not be. example. dic={'name':'Geetika','age':19}		   
+
+		   
+question9: what is the purpose of **operator.
+
+answer   : **operator is a exponential operator to perform calculations on operators(a**b)=10 to the power 20.
+
+question10: what is the purpose of //operator
+
+answer    : // divison floor operator perform calculation on the operands where the result in quotient in which the digit after the decimal point are removed.
+			9//2=4.
+			
+			
+question11: what is the purpose of  is  operator.
+
+answer    : is operator evaluates to true is the variable on either side of operator points to the same object and false otherwise.
+
+
+question12: what is the purpose of not in operator.
+
+answer    : is not operator evaluates to false if the variable on eithers sides of operator point to the same object and false otherwise.
+
+
+question13: what is the purpose of break statement in python.
+
+
+answer    : break statement gives an option to exit the loop when an external conditions is trigered.
+            by simply write break ,we can exit the the block of loop.
+			
+			
+question14: What is the purpose continue statement in python?
+answer    : continue statement gives option to skip the part of loop when the external condition is triggered.
+
+
+question15: What is the purpose pass statement in python?
+answer    : pass statement give option to handle the condition with the loop beging impact.
+
+
+questiom16:	What is the difference between del() and remove() methods of list?
+answer    : the del() in the list used to delete the entire list. 
+            the remove() use to remove element in the list.it search the item that contain the value you want to deleted if it find the value,delete it.if that value cannot found it will create an error.
+			
+
+			
+		
